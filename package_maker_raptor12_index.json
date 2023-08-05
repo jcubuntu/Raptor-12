@@ -42,7 +42,7 @@
           {
             "name": "MAKER_ROBOTICS_RAPTOR12",
             "architecture": "stm32",
-            "version": "2.4.0",
+            "version": "0.1.0",
             "category": "Contributed",
             "url": "http://www.inex.co.th/store/arduino_stm32_addon/INEXSTM32-2.4.0.tar.bz2",
             "archiveFileName": "INEXSTM32-2.4.0.tar.bz2",
