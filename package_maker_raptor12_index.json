@@ -40,7 +40,7 @@
             ]
           },
           {
-            "name": "INEX_STM32",
+            "name": "MAKER_ROBOTICS_RAPTOR12",
             "architecture": "stm32",
             "version": "2.4.0",
             "category": "Contributed",
@@ -49,21 +49,21 @@
             "checksum": "SHA-256:0db3f524306c0cc5830cd0e5724058c98d4dba56e2c7ff44128a24a63dcaa214",
             "size": "42569441",
             "boards": [
-              {"name": "POP-32"}
+              {"name": "Raptor-12"}
             ],
             "toolsDependencies": [
               {
-                "packager": "INEX_STM32",
+                "packager": "MAKER_RAPTOR",
                 "name": "xpack-arm-none-eabi-gcc",
                 "version": "10.3.1-2.3"
               },
               {
-                "packager": "INEX_STM32",
+                "packager": "MAKER_RAPTOR",
                 "name": "STM32Tools",
                 "version": "2.1.1"
               },
               {
-                "packager": "INEX_STM32",
+                "packager": "MAKER_RAPTOR",
                 "name": "CMSIS",
                 "version": "5.7.0"
               }
