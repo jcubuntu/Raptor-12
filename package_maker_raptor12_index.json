@@ -12,28 +12,28 @@
           {
             "name": "Raptor-12",
             "architecture": "stm32",
-            "version": "2.3.0",
+            "version": "0.1.0",
             "category": "Contributed",
             "url": "http://www.inex.co.th/store/arduino_stm32_addon/INEXSTM32-2.3.0.tar.bz2",
             "archiveFileName": "INEXSTM32-2.3.0.tar.bz2",
             "checksum": "SHA-256:61ba70d81643a3697de316b8549f42dca587227bb117040b2f619d3dca4bec5e",
             "size": "42114575",
             "boards": [
-              {"name": "POP-32"}
+              {"name": "Raptor-12"}
             ],
             "toolsDependencies": [
               {
-                "packager": "INEX_STM32",
+                "packager": "MAKER_RAPTOR",
                 "name": "xpack-arm-none-eabi-gcc",
                 "version": "10.3.1-2.3"
               },
               {
-                "packager": "INEX_STM32",
+                "packager": "MAKER_RAPTOR",
                 "name": "STM32Tools",
                 "version": "2.1.1"
               },
               {
-                "packager": "INEX_STM32",
+                "packager": "MAKER_RAPTOR",
                 "name": "CMSIS",
                 "version": "5.7.0"
               }
