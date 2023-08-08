@@ -1,18 +1,18 @@
 {
     "packages": [
       {
-        "name": "MAKER_ROBOTICS_RAPTOR12",
+        "name": "MAKER ROBOTICS",
         "websiteURL": "http://www.maker.co.th",
         "maintainer": "Maker Robotics",
         "email": "phuwasit@p-robotics.net",
         "help": {
-          "online": "http://www.inex.co.th"
+          "online": "http://www.makerrobotics.co.th"
         },
         "platforms": [
           {
-            "name": "Raptor-12",
-            "architecture": "stm32",
-            "version": "0.1.0",
+            "name": "MAKER ROBOTICS",
+            "architecture": "avr",
+            "version": "1.8.6",
             "category": "Contributed",
             "url": "http://www.inex.co.th/store/arduino_stm32_addon/INEXSTM32-2.3.0.tar.bz2",
             "archiveFileName": "INEXSTM32-2.3.0.tar.bz2",
